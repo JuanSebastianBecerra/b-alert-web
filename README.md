@@ -5,6 +5,11 @@ project containing the screenshots of the web version of the b-alert application
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.2.
 
+## Install dependencies
+
+Run `npm install` or `npm i` for install dependencies. You have to see a node_modules folder when the installation is done.
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
