@@ -6,9 +6,9 @@ import { LandingpageComponent } from './landingpage/landingpage.component';
 import { LoginComponent } from './login/login.component';
 
 const routes: Routes = [
+  { path: '', component: LandingpageComponent },
   { path: 'home', component: HomeComponent },
   { path: 'create-configuration', component: CreateConfigurationComponent },
-  { path: 'landingpage', component: LandingpageComponent },
   { path: 'login', component: LoginComponent },
 ];
 
